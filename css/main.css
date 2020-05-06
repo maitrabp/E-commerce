@@ -1,0 +1,108 @@
+/*MP*/
+body{
+    padding-top: 50px;
+}
+#navbar{
+    /*background-color: #FFF0000;*/
+    background-color: lightblue;
+}
+/*change text color to white*/
+#text{
+    background-color: black;
+    color: white;
+    font-family: 'Lobster';
+    font-size: 25px;
+}
+a{
+    margin-left: 10px;
+    border-radius: 25px;
+}
+#text4{
+    color: black;
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+#text2{
+    background-color: palegoldenrod;
+    font-family: 'Lobster';
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+#text3{
+    font-family: cursive;
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+}
+#right{
+    float: right;
+}
+#headerPic{
+    height: 200px;
+    width: 100%;
+    border: 2px solid black;
+    text-align: center;
+    justify-items: center;
+    background-color: black;
+}
+#headerPic h1{
+    margin-top: 70px;
+    font-family: 'Lobster';
+    font-size: 80px;
+    color: lightblue;
+}
+#images{
+    height: 200px;
+    width: auto;
+}
+#cartImages{
+    height:100px;
+    width: auto;
+}
+.homepageButton{
+    background-color: skyblue;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.homepageButton:hover{
+    background-color: black;
+    color: white;
+}
+#tableHead{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    background-color: black;
+    color: skyblue;
+}
+.col-md-3
+{
+    margin: 30px;
+    padding: 10px;
+}
+img.details{
+    width: 100%;
+    margin: 15px auto;
+    height: 100%;
+}
+.price{
+    color: darkgreen;
+}
+.outsidecentered { 
+    width: 100%;
+    height: 100px;
+    background-color: skyblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30%;
+}
+.btn-black {
+    background-color: black;
+    color: white;
+}
+.btn-black:hover{
+    background-color: lightgreen;
+    color: white;
+}
