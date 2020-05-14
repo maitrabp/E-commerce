@@ -28,9 +28,9 @@
 # Admin Features
  * Admin users have access to all resources of guest/customer user. However, they are also able to add items/remove items from and to the inventory. Admin users can control all items/products displayed on the website. 
 # Potential Changes in Future Versions
- * I would love to add a customer support/contact us form for the customers to reach out to us. 
- * I would also like to implement a favorites option for the users. 
- * Lastly, I was thinking I could also add a customer review option (rating) for all the products displayed on the website. 
+ * Customer Support/Contact Us
+ * Favorites
+ * Customer Review (rating)
 # Author
 * Maitra Patel
 # Built Using
