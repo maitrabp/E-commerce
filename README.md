@@ -27,6 +27,8 @@
  
 # Admin Features
  * Admin users have access to all resources of guest/customer user. However, they are also able to add items/remove items from and to the inventory. Admin users can control all items/products displayed on the website. 
+ * User: Admin
+ * Password: Admin
 # Potential Changes in Future Versions
  * Customer Support/Contact Us
  * Favorites
