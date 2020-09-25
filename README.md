@@ -50,5 +50,5 @@
 [JS]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Bootstrap]: https://getbootstrap.com/
 [JQuery]: https://jquery.com/
-[E-commerce]: https://m18e-commerce.000webhostapp.com/ecommerce/
+[E-commerce]: https://mp-creates-ecommerce.herokuapp.com/login.php
 
