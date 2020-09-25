@@ -1,11 +1,11 @@
 <?php 
     session_start();
     //DB Connection
-    $usernameErr = "";
-    $passwordErr = "";
-    $dsn = 'mysql:host=127.0.0.1:3360;dbname=e-commerce';
-    $user = 'root';
-    $password = '';
+   $usernameErr = "";
+   $passwordErr = "";
+   $dsn = 'mysql:host=us-cdbr-east-02.cleardb.com;dbname=heroku_28271986dd16416';
+   $user = 'b79f790f3ee1bd';
+   $password = '24f9e469';
     try {
         $db = new PDO($dsn, $user, $password);
         $db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
