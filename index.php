@@ -105,6 +105,7 @@
                             </button>
                             <h4 class="modal-title text-center" id="text3"><?=$productName;?></h4>
                         </div>
+                        <!--DETAILS MODAL-->
                         <div class = "modal-body">
                             <div class = "container-fluid">
                                 <div class = "row">
@@ -117,7 +118,7 @@
                                         <h4><b>Details</b></h4>
                                         <p><?=$product['description'];?></p>
                                         <hr/>
-                                        <p style = "color:maroon">Price: <?=" &#8377;" . $product['price'];?></p>
+                                        <p style = "color:maroon">Price: <?="$ " . $product['price'];?></p>
                                         <p style = "color:maroon">Brand: <?=$product['brand'];?></p>
                                         <form action = "index.php" method = "post">
                                             <div class="form-group">
