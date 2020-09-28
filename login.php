@@ -5,6 +5,7 @@
     }
     else{
         clearstatcache();
+        $this->cache->clean();
         session_unset();
         session_destroy();
         session_start();
