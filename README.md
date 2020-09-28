@@ -18,7 +18,7 @@
  * Once the user clicks on details for their desired item, a detail modal will pop up with all details about the item. Through this modal, the user can select quantity and add this item to cart. 
  ## Add to Cart
  * Through the detail modal, the user is able to add the item to cart, the system will then add this item to cart with the quantitiy selected, and will also display a message for the user so that they can confirm their item has been added to the cart. 
- ## (CRUD) Cart Item Add/Remove
+ ## (CRUD) Cart Item Add/Remove/Update quantity
  * Once the user navigates to their cart, they are able to remove the item which they had added throughout their surfing.
  * The cart page will sum up total of all items with respect to their quantities. This total is displayed on the bottom of the page. 
  * The user can purchase all the items they've added to their cart by clicking 'Buy' button.
