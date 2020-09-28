@@ -4,6 +4,7 @@
         session_start();
     }
     else{
+        clearstatcache();
         session_unset();
         session_destroy();
         session_start();

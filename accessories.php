@@ -20,6 +20,7 @@
         return $products;
     }
     if(empty($_SESSION)) {
+        session_unset();
         header('Location: login.php');
     }
 ?>
